@@ -2,9 +2,9 @@
 
 <hr />
 
-**AcmeNet** is an ambitious initiative by the *Acme Corporation* to create a decentralized and federated network of platforms that perform digital economic transactions on a common protocol. 
+**AcmeNet** is an ambitious initiative by the *Acme Foundation* to create a decentralized and federated network of platforms that perform digital economic transactions on a common protocol. 
 
-AcmeNet does not have a central controlling entity. All platforms on AcmeNet transact peer-to-peer. No third party has visibility into _any_ transaction unless explicitly given access by a platform. However, to provide the element of trust, AcmeNet has a network facilitator organization called Acme Corp, a not-for-profit organization that provides a framework for,
+AcmeNet does not have a central controlling entity. All platforms on AcmeNet transact peer-to-peer. No third party has visibility into _any_ transaction unless explicitly given access by a platform. However, to provide the element of trust, AcmeNet has a network facilitator organization called AcmeNet Limited, a not-for-profit organization that provides a framework for,
 
 1. Transaction Interoperability
 2. Enabling Fair trade
